@@ -10,7 +10,7 @@ Poderá ser uma vitória
 ![First Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
 
 Uma derrota
-![Second Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png
+![Second Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
 
 Ou um empate
 ![Third Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
