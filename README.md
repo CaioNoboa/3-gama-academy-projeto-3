@@ -8,14 +8,14 @@ A partir deste momento aparecerá em seu terminal uma pergunta pedindo para info
 
 Poderá ser uma vitória:
 
-![First Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
+![First Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_1.png)
 
 
 Uma derrota:
 
-![Second Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-2.png)
+![Second Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_2.png)
 
 
 Ou um empate:
 
-![Third Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-3.png)
+![Third Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_3.png)
