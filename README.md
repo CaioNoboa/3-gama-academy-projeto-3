@@ -4,18 +4,21 @@ Este projeto trata-se do jogo pedra, papel e tesoura. Você irá jogá-lo contra
 
 ## Yarn start
 
-A partir deste momento aparecerá em seu terminal uma pergunta pedindo para informar seu nome, depois qual das três opções, pedra, papel ou tesoura, você gostaria de escolher e por fim o resultado:
+A partir deste momento aparecerá em seu terminal uma pergunta pedindo para informar seu nome e depois qual das três opções, pedra, papel ou tesoura, você gostaria de escolher: 
 
-Poderá ser uma vitória:
+![First Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_4.png)
 
-![First Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_1.png)
+
+Por fim o resultado, poderá ser uma vitória:
+
+![Second Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_1.png)
 
 
 Uma derrota:
 
-![Second Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_2.png)
+![Third Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_2.png)
 
 
 Ou um empate:
 
-![Third Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_3.png)
+![Fourth Screen](https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem_3.png)
