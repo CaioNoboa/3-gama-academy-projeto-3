@@ -7,10 +7,10 @@ Este projeto trata-se do jogo pedra, papel e tesoura. Você irá jogá-lo contra
 A partir deste momento aparecerá em seu terminal uma pergunta pedindo para informar seu nome, depois qual das três opções, pedra, papel ou tesoura, você gostaria de escolher e por fim o resultado:
 
 Poderá ser uma vitória
-![First Screen] (https://raw.githubusercontent.com/CaioNoboa/3-gama-academy-projeto-3/main/images/imagem-1.png)
+![First Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
 
 Uma derrota
-![Second Screen]
+![Second Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png
 
 Ou um empate
-![Third Screen]
+![Third Screen] (https://github.com/CaioNoboa/3-gama-academy-projeto-3/blob/main/images/imagem-1.png)
